@@ -1,4 +1,14 @@
-### Hi there 👋
+## 📈 GitHub Stats
+[![Cesar's github stats](https://github-readme-stats.vercel.app/api?username=ccasil&show_icons=true&line_height=20&show_icons=true&theme=default&count_private=true)](https://github-readme-stats.vercel.app/api?username=ccasil&show_icons=true&line_height=20&show_icons=true&theme=default&count_private=true)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccasil&langs_count=10&show_icons=true&layout=compact&theme=default)](https://github-readme-stats.vercel.app/api/top-langs/?username=ccasil&show_icons=true&layout=compact&theme=default) -->
+
+<br>
+<img src="https://visitor-badge.glitch.me/badge?page_id=ccasil"/>
+<br>
+
+## 🏆 Github Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=ccasil)](https://github-profile-trophy.vercel.app/?username=ccasil)
 
 <!--
 **ccasil/ccasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
