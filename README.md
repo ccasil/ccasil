@@ -39,6 +39,8 @@
 
 ## 📫 How to reach me
 <a href="https://www.linkedin.com/in/ckcasil/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+<br>
+<a href="https://cesarkylecasil.me/" target="_blank"><img alt="Website" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a>
 
 <!--
 **ccasil/ccasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
