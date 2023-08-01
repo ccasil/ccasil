@@ -1,4 +1,4 @@
-<img src="https://visitor-badge.glitch.me/badge?page_id=ccasil"/>
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=ccasil"/> -->
 
 <!-- ## 📊 GitHub Stats
 [![Cesar's github stats](https://github-readme-stats.vercel.app/api?username=ccasil&show_icons=true&line_height=20&show_icons=true&theme=default&count_private=true)](https://github-readme-stats.vercel.app/api?username=ccasil&show_icons=true&line_height=20&show_icons=true&theme=default&count_private=true) -->
